@@ -1,0 +1,6 @@
+{
+	"parent": "item/Generated",
+	"textures": {
+		"layer0": "cpow:items/chaos_ingot"
+	}
+}
